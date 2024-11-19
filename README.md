@@ -5,4 +5,3 @@ ReactJS
 CSS
 Figma
 
-Open [http://localhost:3000](http://localhost:3000) to view this project in your browser.
